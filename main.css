@@ -29,6 +29,16 @@
 	display: inline-block;
 }
 
+.border-style {
+	border-style: solid;
+	border-color: rgb(200,200,200);
+	border-width: 1px
+}
+
+.table-style {
+	padding: 10px;
+}
+
 .header {
 	height: 200px;
 	background-color: #2ecc71;
